@@ -1,1 +1,1 @@
-[](../logos/sadie.png)
+![](https://i.imgur.com/Bkj64rV.png)
