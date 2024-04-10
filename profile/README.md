@@ -1,1 +1,1 @@
-[](./logos/sadie.png)
+[](../logos/sadie.png)
